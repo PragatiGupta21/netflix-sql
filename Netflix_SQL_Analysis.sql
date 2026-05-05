@@ -1,5 +1,7 @@
 This is First project of me as Database Developer
 author : Pragati Gupta
+Company : CRISP Bhopal
+Mentor : Arjun Sharma
 Date : 05-05-2026
 
 -- What were the top 10 movies according to IMDB score?
